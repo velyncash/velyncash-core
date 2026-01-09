@@ -1,6 +1,6 @@
 # velyncash-core
 
-Core domain logic for **Velyn.Cash** — authentication, wallets, payments, cards, and notifications.
+Core domain logic for **Velyn.Cash** authentication, wallets, payments, cards, and notifications.
 
 This repository is intentionally **framework-agnostic**.  
 No UI. No API transport. No database drivers.  
