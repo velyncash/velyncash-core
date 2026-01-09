@@ -108,4 +108,7 @@ export function createAuthService(deps: AuthServiceDeps) {
       });
 
       await deps.sessions.create(session);
-      return
+      return session;
+    }
+  };
+}
